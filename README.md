@@ -5,7 +5,8 @@ BITÁCORA DEL PROGRAMA ph2.py
 ---------------
 Que el programa me tome la cantidad de reactivos que le pongo y que me pida el nombre de los reactivos.
 ##Resuelto##
-El usuario ingresa el número de reactivos, y en base a los condicionales, la computadora le
+El usuario ingresa el número de reactivos, y en base a los condicionales, la computadora le pide el 
+nombre de la cantidad de reactivos estipulada.
 
 #Objetivo 2:#
 ---------------
